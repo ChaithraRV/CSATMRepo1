@@ -10,5 +10,7 @@ public class NewTest4 {
 	  System.out.println("Test initial");
 	  System.out.println("Test commit1");
 	  System.out.println("Test push to remote");
+	  System.out.println("Test commit2");
   }
+  
 }
