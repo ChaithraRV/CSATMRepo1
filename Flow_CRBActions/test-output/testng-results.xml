@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="223148" started-at="2017-03-22T17:41:54Z" finished-at="2017-03-22T17:45:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="223148" started-at="2017-03-22T17:41:54Z" finished-at="2017-03-22T17:45:37Z">
+      <class name="crbActions_US_main.CreateRequest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:crbActions_US_main.CreateRequest@627551fb]" name="setup" is-config="true" duration-ms="22018" started-at="2017-03-22T23:11:54Z" finished-at="2017-03-22T23:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NonCoreRequest()[pri:0, instance:crbActions_US_main.CreateRequest@627551fb]" name="NonCoreRequest" duration-ms="201083" started-at="2017-03-22T23:12:16Z" finished-at="2017-03-22T23:15:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NonCoreRequest -->
+      </class> <!-- crbActions_US_main.CreateRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
