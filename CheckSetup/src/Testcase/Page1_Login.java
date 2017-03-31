@@ -36,6 +36,7 @@ public class Page1_Login {
 				wait01.until(ExpectedConditions.visibilityOf(loginlink));
 
 				loginlink.click();
+				System.out.println();
 
 		  }
 		}
